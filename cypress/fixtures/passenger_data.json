@@ -5,7 +5,7 @@
   "SOURCE_STATION": "MAS",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "CBE",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "prakashchandran1995@oksbi",
   "PASSENGER_DETAILS": [
